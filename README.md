@@ -1,5 +1,6 @@
 
 
+
 <span align="center">
 
 <pre>
@@ -80,7 +81,7 @@ Requests is ready for the demands of building robust and reliable HTTP–speak a
 
                             &, of course, rock–solid stability!
 </pre>
-</div>
+
 
 <p align="center">
         ✨ 🍰 ✨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
